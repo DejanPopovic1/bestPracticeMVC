@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\utilities\\jsondocumentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\utilities\\jsondocumentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\exceptions\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\data\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BestPractice/True/SqlTable/dbo.Actors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\migrations\\20260223160008_tablecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260223160008_tablecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\migrations\\20260223150419_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260223150419_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DeanPopovic\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\deanpopovic\\documents\\4.minimalprojects\\bestpracticeold\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59CEC2A0-0CBE-4CED-B1EB-36FA423794D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\EntityRepository.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\EntityRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\EntityRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:36:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-23T14:57:04.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonDocumentConverter.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Utilities\\JsonDocumentConverter.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Utilities\\JsonDocumentConverter.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Utilities\\JsonDocumentConverter.cs",
+              "RelativeToolTip": "WebApplication1\\Utilities\\JsonDocumentConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:19:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiException.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Exceptions\\ApiException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Exceptions\\ApiException.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Exceptions\\ApiException.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Exceptions\\ApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:13:04.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:23:01.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:55:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ActorRepository.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\ActorRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ActorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:54:08.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:06:50.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:54:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Actor.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\Actor.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Data\\Actor.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\Actor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:10:33.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260223160008_tableColumn.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Migrations\\20260223160008_tableColumn.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260223160008_tableColumn.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Migrations\\20260223160008_tableColumn.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260223160008_tableColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:51:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Actors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BestPractice/True/SqlTable/dbo.Actors.sql",
+              "ToolTip": "dbo.Actors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-10T15:32:36.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwB4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:23:31.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260223150419_table.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Migrations\\20260223150419_table.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20260223150419_table.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Migrations\\20260223150419_table.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20260223150419_table.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:57:30.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Monitor.cs",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs",
+              "ToolTip": "C:\\Users\\DeanPopovic\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ca169b5f8096b3fd01bc738c77225099d363dea7bb508bd774b256157500bca\\Monitor.cs [Read Only]",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAhwFcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T09:46:46.731Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:29:14.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:26:50.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:26:49.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:24:45.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:23:25.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DeanPopovic\\Documents\\4.MinimalProjects\\BestPracticeOLD\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-23T15:23:24.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
