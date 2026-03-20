@@ -9,6 +9,7 @@ using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -39,8 +40,13 @@ namespace WebApplication1.Controllers
             return View();
         }
 
+        public IActionResult DocumentsExample()
+        {
+            return View();
+        }
+
         [HttpPost]
-        public async Task<IActionResult> PostJSON(DataToBeSerializedInput inputdata)
+        public async Task<IActionResult> PostJson(DataToBeSerializedInput inputdata)
         {
             var test = (JsonSerializer.Serialize(inputdata));
             //var actor = new Actor()
@@ -52,7 +58,7 @@ namespace WebApplication1.Controllers
             //_context.Actors.AddAsync(actor);
             //_context.SaveChanges();
 
-            
+
 
             var firstActor = _context.Actors.First(x => true);
             var JsonElement = firstActor.AdditionalInformation.RootElement;
@@ -60,9 +66,13 @@ namespace WebApplication1.Controllers
             return View("Index");
         }
 
-      
-           
-       
+
+
+        //public async Task<IActionResult> PostDocument(IFormFile fileUpload)
+        //{
+        //    return Ok();
+
+        //}
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

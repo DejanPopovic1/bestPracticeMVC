@@ -7,6 +7,8 @@ public class ApplicationContext : DbContext
 {
     public DbSet<Actor> Actors { get; set; }
 
+    public DbSet<Document> Documents { get; set; }
+
     public ApplicationContext(DbContextOptions<ApplicationContext> options) : base(options)
     {
 

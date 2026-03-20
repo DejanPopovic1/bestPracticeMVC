@@ -124,6 +124,7 @@ public class EntityRepository<T, I> : IEntityRepository<T, I> where T : class
 
     public EntityRepository(ApplicationContext context)
     {
+        _context = context;
         _dbSet = context.Set<T>();
     }
 

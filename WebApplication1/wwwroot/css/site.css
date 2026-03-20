@@ -20,3 +20,14 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+.table-format {
+    width: 25%;
+    margin: 5%;
+}
+
+.red-text {
+    color: red;
+
+}
