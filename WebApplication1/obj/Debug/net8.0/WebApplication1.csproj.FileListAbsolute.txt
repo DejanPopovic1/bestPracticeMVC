@@ -142,3 +142,5 @@ C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1
 C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\DeanPopovic\Documents\4.MinimalProjects\BestPracticeOLD\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

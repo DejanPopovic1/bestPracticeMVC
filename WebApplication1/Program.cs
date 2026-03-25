@@ -2,7 +2,8 @@ using ConfigService.Database;
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
 using WebApplication1.Inputs;
-using WebApplication1.Service;
+using WebApplication1.Service.AuthService;
+using WebApplication1.Service.DBService;
 
 namespace WebApplication1
 {
@@ -28,6 +29,7 @@ namespace WebApplication1
             //builder.Services.AddScoped<IService<DocumentCreateInput, DocumentUpdateInput, Document, Guid>, DocumentService>();
             //builder.Services.AddScoped<IDocumentService, DocumentService>();
 
+            builder.Services.AddScoped<TokenService>();
 
             var app = builder.Build();
 

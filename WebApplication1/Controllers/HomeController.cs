@@ -40,10 +40,10 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public IActionResult DocumentsExample()
-        {
-            return View();
-        }
+        //public IActionResult DocumentsExample()
+        //{
+        //    return View();
+        //}
 
         [HttpPost]
         public async Task<IActionResult> PostJson(DataToBeSerializedInput inputdata)

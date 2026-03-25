@@ -1,7 +1,7 @@
 ﻿using WebApplication1.Inputs;
 using WebApplication1.Data;
 
-namespace WebApplication1.Service;
+namespace WebApplication1.Service.DBService;
 
 public interface IDocumentService
 {

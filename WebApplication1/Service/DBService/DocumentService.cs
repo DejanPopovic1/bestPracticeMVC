@@ -3,9 +3,9 @@ using System.Security.Cryptography;
 using WebApplication1.Data;
 using WebApplication1.Inputs;
 
-namespace WebApplication1.Service;
+namespace WebApplication1.Service.DBService;
 
-public class DocumentService : IService <DocumentCreateInput, DocumentUpdateInput, Document, Guid>
+public class DocumentService : IService<DocumentCreateInput, DocumentUpdateInput, Document, Guid>
 //public class DocumentService : IDocumentService
 {
     IEntityRepository<Document, Guid> _documentRepository;

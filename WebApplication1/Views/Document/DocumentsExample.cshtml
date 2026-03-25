@@ -1,5 +1,6 @@
-﻿@page
-@model WebApplication1.Views.Home.DocumentsExampleModel
+﻿@* @page *@
+@using WebApplication1.Controllers
+@model List<DocumentModel>
 @{
 }
 
@@ -23,10 +24,31 @@
                 <th class="table-format">Column 1</th>
                 <th class="table-format">Column 2</th>
                 <th class="table-format">Column 3</th>
+                <th class="table-format">Column 4</th>
             </tr>
         </thead>
         <tbody>
+
+            @foreach (var item in Model)
+            {
             <tr>
+                <td>@item.Id</td>
+                <td>@item.DocumentName</td>
+               @*  <td><a href="/Document/GetDocument/@item.Id">Download</a></td>
+ *@
+                    <a asp-controller="Document"
+                       asp-action="GetDocument"
+                       asp-route-id="@item.Id"
+                       asp-route-token="@item.Token">
+                        Download
+                    </a>
+
+
+                <td>@item.Token</td>
+            </tr>
+
+            }
+@*             <tr>
                 <td>Row 1, Cell 1</td>
                 <td>Row 1, Cell 2</td>
                 <td>Row 1, Cell 3</td>
@@ -40,7 +62,7 @@
                 <td>Row 3, Cell 1</td>
                 <td>Row 3, Cell 2</td>
                 <td>Row 3, Cell 3</td>
-            </tr>
+            </tr> *@
         </tbody>
         <tfoot>
             <tr>

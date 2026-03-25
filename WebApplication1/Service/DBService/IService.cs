@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 
-namespace WebApplication1.Service;
+namespace WebApplication1.Service.DBService;
 
-public interface IService <TCreateInput, TUpdateInput, TEntity, Tid>
+public interface IService<TCreateInput, TUpdateInput, TEntity, Tid>
 {
     public Task<TEntity> CreateAsync(TCreateInput input);
 
